@@ -32,3 +32,6 @@ class LogisticRegressionTest(unittest.TestCase):
         assert_equal(cost, 5.801545319394553)
         assert_array_almost_equal(grads["dw"], np.array([[0.99845601], [2.39507239]]))
         assert_equal(grads["db"], 0.001455578136784208)
+
+    def test_optimize(self):
+        assert_equal(1, 1)
