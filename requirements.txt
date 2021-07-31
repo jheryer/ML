@@ -1,0 +1,9 @@
+cached-property==1.5.2
+h5py==2.10.0
+mpmath==1.2.1
+ndindex==1.5.2
+numpy==1.21.1
+packaging==21.0
+pyparsing==2.4.7
+six==1.16.0
+sympy==1.8
